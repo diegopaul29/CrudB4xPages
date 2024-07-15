@@ -1,0 +1,30 @@
+--release
+--output
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects
+--lib
+C:\Android\platforms\android-33\android.jar
+C:\Android\tools\..\extras\b4a_local\unpacked-b4ashared-63837495756000\dex_v1\b4ashared.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-debug-63837495758000\dex_v1\debug.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-audio-63837495756000\dex_v1\audio.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-camera2-63837495758000\dex_v1\camera2.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-core-63837495758000\dex_v1\core.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-sip-63837495758000\dex_v1\sip.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-sql-63837495758000\dex_v1\sql.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xui-63837495758000\dex_v1\xui.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-remotelogger-63837495758000\dex_v1\remotelogger.zip
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\main$1.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\main$B4AMenuItemsClickListener.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\main$HandleKeyDelayed.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\main$ResumeMessage.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\main$WaitForLayout.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\main.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\producto.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\productos.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\R$drawable.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\R$style.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\R.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\starter$1.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\starter$2.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\starter$starter_BR.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\starter.dex
+D:\Software\Septimo\Aplicaciones moviles\Crud-B4xPages\Objects\dexed\b4a\example\designerscripts\LS_layout.dex
